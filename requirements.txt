@@ -6,3 +6,4 @@ numpy>=1.9.2
 streamlit
 opencv-python
 streamlit-webrtc
+libgl1
