@@ -5,4 +5,5 @@ Werkzeug==0.15.5
 numpy>=1.9.2
 streamlit
 opencv-python
+opencv-contrib-python
 streamlit-webrtc
